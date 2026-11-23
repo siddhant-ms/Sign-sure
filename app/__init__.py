@@ -1,0 +1,1 @@
+"""SignSure Local Indian & Karnataka Legal RAG Backend."""
